@@ -1,0 +1,12 @@
+name: LogTide
+website_url: https://logtide.dev
+source_code_url: https://github.com/logtide-dev/logtide
+description: Observability platform and SIEM unifying logs, traces and metrics, with OpenTelemetry ingestion and Sigma rules for threat detection (alternative to Datadog, Splunk, Elastic Stack).
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - Nodejs
+tags:
+  - Log Management
+  - Monitoring & Status Pages
